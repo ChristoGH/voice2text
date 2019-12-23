@@ -1,3 +1,15 @@
+# graphics
+#
+*.pdf
+*.png
+
+# directories
+graphs/
+data/
+google_configs/
+aws_configs/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
